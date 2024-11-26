@@ -1,0 +1,9 @@
+Presenta Propuesta Comercial
+Acepta Propuesta y Términos
+Envía Procedimiento y Gantt
+Confirma Aceptación Procedimiento
+Solicita Información de Implementación
+Envía Información Requerida
+Agenda Reunión Kickoff
+Reunión Kickoff: Mail de Entendimiento, Revisión Información, Plan Capacitaciones, Define Caso Piloto, Define Roles
+
